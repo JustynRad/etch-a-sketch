@@ -102,5 +102,5 @@ function updateSize(value) {
 
 window.onload = () => {
     createGrid('16');
-    activiateButton('black');
+    setMode('black');
 }
